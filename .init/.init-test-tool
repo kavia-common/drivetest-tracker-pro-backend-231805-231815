@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/drivetest-tracker-pro-backend-231805-231815/backend_api_service"
+}
